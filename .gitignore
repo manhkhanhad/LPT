@@ -1,0 +1,9 @@
+**/*.jpg
+BYTE_Results/**/*
+data/**/*
+reproduce/**/*
+ckpt/**/*
+results/**/*
+result/data.zip
+**/__pycache__/*
+result
