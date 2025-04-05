@@ -7,3 +7,12 @@ results/**/*
 result/data.zip
 **/__pycache__/*
 result
+HCM_traffic
+.ipynb_checkpoints
+reproduce_dataset
+runs
+VisDrone
+*.mp4
+*.pkl
+*.pt
+
